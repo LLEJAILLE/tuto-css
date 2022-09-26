@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: blue;
+}
+.square {
+    height: 100px;
+    width: 100px;
+    background: black;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 250px;
+    border-radius: 100px;
+}
